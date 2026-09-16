@@ -1,59 +1,63 @@
-Termini di Servizio — PeakOS AI
+# Termini di Servizio — WAGMI
 
-Ultimo aggiornamento: 13 agosto 2026
+**Ultimo aggiornamento**: 16 settembre 2026
 
-Accettazione dei termini
+*Read this in [English](./terms-of-service-en).*
 
-Utilizzando PeakOS AI, accetti questi Termini di Servizio. Se non sei d'accordo, ti preghiamo di non utilizzare l'app.
+Benvenuto su WAGMI. Utilizzando l'app accetti questi Termini di Servizio. Se non li accetti, non puoi utilizzare WAGMI.
 
-Descrizione del servizio
+## 1. Il servizio
 
-PeakOS AI è un'applicazione per il tracciamento di allenamenti, con un coach basato su intelligenza artificiale e funzionalità social per connettersi con altri utenti che condividono obiettivi fitness simili.
+WAGMI è un'app per il fitness che ti permette di registrare i tuoi allenamenti, ricevere assistenza da un coach basato su intelligenza artificiale, condividere i tuoi progressi in una community e connetterti con altri utenti.
 
-Account utente
-Devi fornire informazioni accurate al momento della registrazione
-Sei responsabile della sicurezza delle tue credenziali di accesso
-Devi avere almeno 18 anni per utilizzare l'app, o l'età minima richiesta dalla legge nella tua giurisdizione
-Non è consentito creare più account per aggirare restrizioni o limitazioni
-Comportamento degli utenti
+**WAGMI non fornisce consulenza medica.** I contenuti generati dall'AI Coach, i consigli di allenamento e ogni altra informazione presente nell'app hanno scopo puramente informativo e motivazionale: non sostituiscono il parere di un medico, di un fisioterapista o di un professionista qualificato. Consulta un medico prima di iniziare qualsiasi programma di allenamento, specialmente in presenza di condizioni di salute preesistenti.
 
-Utilizzando le funzionalità social dell'app (community, matching, chat), ti impegni a:
+## 2. Il tuo account
 
-Non pubblicare contenuti offensivi, molesti, discriminatori o illegali
-Non impersonare altre persone
-Rispettare gli altri utenti nelle interazioni tramite chat e commenti
-Non utilizzare l'app per scopi commerciali non autorizzati o spam
+- Devi avere almeno 18 anni per creare un account: WAGMI include una funzione di incontri (Match), condivisione della posizione e chat con altri utenti sconosciuti. In fase di registrazione ti verrà chiesto di confermarlo.
+- Sei responsabile della sicurezza delle tue credenziali di accesso.
+- Le informazioni che fornisci in fase di registrazione devono essere veritiere.
+- Puoi eliminare il tuo account in qualsiasi momento da Impostazioni → Impostazioni account — l'eliminazione è permanente e immediata.
 
-Ci riserviamo il diritto di sospendere o eliminare account che violano queste regole.
+## 3. Contenuti che pubblichi
 
-Contenuti generati dagli utenti
+Resti proprietario dei contenuti che pubblichi (post, commenti, foto, video, routine). Pubblicandoli su WAGMI, ci concedi una licenza non esclusiva a mostrarli all'interno dell'app agli altri utenti secondo le impostazioni di visibilità che scegli, per il tempo in cui il contenuto resta pubblicato.
 
-I contenuti che pubblichi (post, commenti, foto) rimangono di tua proprietà. Concedi a PeakOS AI una licenza non esclusiva per mostrare questi contenuti all'interno dell'app agli altri utenti secondo le impostazioni di privacy che scegli.
+Sei l'unico responsabile di ciò che pubblichi. Non puoi pubblicare contenuti che:
+- violino la legge o i diritti di terzi (compresi diritti d'autore e privacy altrui)
+- contengano spam, molestie, contenuti offensivi, nudità non consentita, violenza o incitamento all'odio
+- impersonino un'altra persona o forniscano informazioni false
 
-AI Coach
+Il dettaglio completo di cosa non è ammesso, e cosa succede se lo pubblichi comunque, è nelle nostre **[Linee guida della community](./community-guidelines)** (tolleranza zero verso contenuti offensivi e utenti abusivi) — parte integrante di questi Termini.
 
-Le indicazioni fornite dall'AI Coach sono generate automaticamente e hanno scopo puramente informativo/motivazionale. Non sostituiscono il parere di un medico, personal trainer qualificato o professionista sanitario. Consulta un professionista prima di iniziare qualsiasi nuovo programma di allenamento, specialmente in presenza di condizioni di salute preesistenti.
+## 4. Moderazione
 
-Geolocalizzazione
+Ci riserviamo il diritto di rimuovere qualunque contenuto e di sospendere o disattivare qualunque account che violi questi Termini o le Linee guida della community, senza preavviso quando la gravità della violazione lo richiede. Ogni segnalazione ricevuta viene esaminata da un amministratore entro tempi rapidi.
 
-La funzionalità di matching basata sulla posizione è opzionale. Attivandola, accetti che la tua posizione approssimativa sia visibile ad altri utenti nelle vicinanze secondo le modalità descritte nell'Informativa sulla Privacy.
+## 5. Servizi di terze parti
 
-Limitazione di responsabilità
+WAGMI si appoggia ad alcuni servizi di terze parti per specifiche funzionalità (accesso con Google/Apple, importazione da Strava, l'infrastruttura che genera le risposte dell'AI Coach). Il loro utilizzo è descritto nella nostra [Informativa sulla Privacy](./privacy-policy).
 
-PeakOS AI viene fornito "così com'è". Non garantiamo che il servizio sarà sempre disponibile, privo di errori o interruzioni. Non siamo responsabili per infortuni derivanti dall'esecuzione di allenamenti suggeriti dall'app o incontri con altri utenti avvenuti tramite la funzionalità di matching.
+## 6. Piani e funzionalità a pagamento
 
-Modifiche al servizio
+WAGMI è oggi gratuita. In futuro potremmo introdurre funzionalità o piani a pagamento facoltativi: se e quando accadrà, te ne daremo comunicazione chiara prima di qualunque addebito, e questi Termini verranno aggiornati di conseguenza.
 
-Ci riserviamo il diritto di modificare, sospendere o interrompere qualsiasi funzionalità dell'app in qualsiasi momento.
+## 7. Limitazione di responsabilità
 
-Cessazione dell'account
+WAGMI viene fornita "così com'è". Nei limiti consentiti dalla legge applicabile, non siamo responsabili per infortuni, danni alla salute o altri danni derivanti dall'uso dei consigli di allenamento o delle funzionalità dell'app — l'attività fisica comporta rischi intrinseci ed è tua responsabilità valutare la tua idoneità a svolgerla.
 
-Puoi eliminare il tuo account in qualsiasi momento. Ci riserviamo il diritto di sospendere o eliminare account che violano questi termini.
+## 8. Sospensione e cessazione
 
-Legge applicabile
+Puoi smettere di usare WAGMI ed eliminare il tuo account in qualsiasi momento. Possiamo sospendere o terminare il tuo accesso al servizio in caso di violazione di questi Termini o delle Linee guida della community.
 
-Questi termini sono regolati dalla legge italiana.
+## 9. Modifiche a questi Termini
 
-Contatti
+Possiamo aggiornare questi Termini nel tempo. In caso di modifiche rilevanti, te lo comunicheremo tramite l'app e ti verrà richiesto di accettarli nuovamente prima di continuare a usare WAGMI.
 
-Per domande su questi Termini di Servizio, contattaci all'indirizzo email indicato nella pagina dell'app.
+## 10. Legge applicabile
+
+Questi Termini sono regolati dalla legge italiana.
+
+## 11. Contatti
+
+Per domande su questi Termini: **support@wagmifit.it**

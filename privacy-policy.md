@@ -1,56 +1,81 @@
-Informativa sulla Privacy — PeakOS AI
+# Informativa sulla Privacy — WAGMI
 
-Ultimo aggiornamento: 13 agosto 2026
+**Ultimo aggiornamento**: 16 settembre 2026
 
-Chi siamo
+*Read this in [English](./privacy-policy-en).*
 
-PeakOS AI è un'applicazione mobile per il fitness che offre tracciamento allenamenti, un coach basato su intelligenza artificiale, e funzionalità social per trovare compagni di allenamento nelle vicinanze.
+## 1. Titolare del trattamento
 
-Dati che raccogliamo
+Il Titolare del trattamento dei dati raccolti tramite l'app WAGMI è **Paolo Antonio Seclì**.
+Per qualunque richiesta relativa ai tuoi dati personali, puoi scrivere a: **support@wagmifit.it**
 
-Per fornire i nostri servizi, raccogliamo:
+## 2. Quali dati raccogliamo
 
-Dati di registrazione: nome, indirizzo email, username, password (memorizzata in forma crittografata)
-Dati del profilo: obiettivi fitness, livello di esperienza, peso, altezza, misure corporee
-Dati sugli allenamenti: esercizi svolti, serie, ripetizioni, pesi utilizzati, durata delle sessioni
-Dati di geolocalizzazione: posizione approssimativa, utilizzata per mostrare altri utenti nelle vicinanze e proporre compagni di allenamento
-Contenuti generati dall'utente: post condivisi nella community, commenti, messaggi con altri utenti
-Dati di utilizzo: interazioni con l'app, conversazioni con l'AI Coach
-Come utilizziamo i dati
+**Dati che fornisci direttamente:**
+- Email e password (la password non viene mai conservata in chiaro, solo in forma hashata/cifrata), oppure l'identità confermata da Google o Apple se scegli di accedere tramite questi servizi
+- Nome, foto profilo, biografia, città/palestra di riferimento (facoltativi)
+- Dati di allenamento che registri: esercizi, serie, ripetizioni, pesi, durata, record personali
+- Foto e video che alleghi ai tuoi allenamenti o pubblichi nella community
+- Misurazioni corporee e check-in che scegli di registrare (facoltativi)
+- Messaggi che scrivi in chat con altri utenti o con l'AI Coach
+- Voce, se scegli di usare l'AI Coach tramite comando vocale (trascritta in testo dal riconoscimento vocale del tuo dispositivo)
+- Segnalazioni che invii su contenuti o utenti
 
-Utilizziamo i tuoi dati per:
+**Dati raccolti automaticamente:**
+- Posizione geografica, solo se concedi il permesso, usata per la mappa fitness e per trovare palestre/compagni di allenamento vicini
+- Indirizzo IP, usato temporaneamente per la sicurezza dell'account (es. limitare tentativi di accesso sospetti)
+- Identificativo e token del dispositivo usati per inviare le notifiche push
+- Dati tecnici minimi sul funzionamento dell'app (es. versione installata)
 
-Fornire e migliorare le funzionalità dell'app
-Generare consigli di allenamento personalizzati tramite il nostro AI Coach
-Mostrarti altri utenti nelle vicinanze per la funzionalità di matching
-Inviarti notifiche relative ad attività social (like, commenti, match, messaggi)
-Garantire la sicurezza dell'account e prevenire abusi
-Condivisione dei dati
+Non raccogliamo dati a fini pubblicitari e non vendiamo i tuoi dati a terzi.
 
-Non vendiamo i tuoi dati personali a terzi. I dati possono essere condivisi con:
+## 3. Perché usiamo questi dati
 
-Fornitori di servizi tecnici che ci aiutano a gestire l'infrastruttura (hosting, database, servizi di intelligenza artificiale) esclusivamente per fornire le funzionalità dell'app
-Altri utenti dell'app, limitatamente ai dati che scegli di rendere pubblici (profilo, post, posizione approssimativa se attivi la funzione di matching)
-Sicurezza
+- Per fornire le funzionalità dell'app (allenamenti, community, chat, mappa, AI Coach)
+- Per mantenere sicuro il tuo account e prevenire abusi (limiti di frequenza, blocco di account sospetti)
+- Per gestire le segnalazioni su contenuti o utenti secondo le nostre Linee guida della community
+- Per inviarti notifiche su attività rilevanti per te (commenti, messaggi, promemoria di allenamento), che puoi disattivare dalle Impostazioni
+- Per rispondere alle richieste che ci invii via email
 
-Adottiamo misure tecniche e organizzative per proteggere i tuoi dati, incluse la crittografia delle password e connessioni sicure (HTTPS/TLS).
+## 4. Con chi condividiamo i dati
 
-I tuoi diritti
+Non vendiamo né condividiamo i tuoi dati per finalità commerciali di terzi. Usiamo un numero ristretto di fornitori di servizi ("responsabili del trattamento") strettamente necessari al funzionamento dell'app:
 
-Hai il diritto di:
+- **Google** e **Apple** — solo se scegli di accedere tramite questi servizi, per verificare la tua identità
+- **Strava** — solo se scegli volontariamente di collegare il tuo account, per importare i tuoi allenamenti
+- **Anthropic** (fornitore del modello linguistico Claude) — riceve i messaggi che invii all'AI Coach (e, per l'analisi form-check, i video che invii a quella funzione) esclusivamente per generare la risposta; non li utilizza per addestrare i propri modelli con dati identificabili nell'ambito del nostro utilizzo del servizio
+- **Expo** — infrastruttura tecnica usata per inviare notifiche push e aggiornamenti dell'app
+- I nostri fornitori di hosting (server e database), con infrastruttura situata nell'Unione Europea
 
-Accedere ai tuoi dati personali
-Richiedere la correzione di dati inesatti
-Richiedere la cancellazione del tuo account e dei dati associati
-Disattivare la condivisione della posizione in qualsiasi momento tramite le impostazioni dell'app
-Conservazione dei dati
+Ciascuno di questi riceve solo i dati strettamente necessari a fornire il proprio servizio specifico.
 
-Conserviamo i tuoi dati finché il tuo account rimane attivo. Se richiedi la cancellazione dell'account, i tuoi dati personali verranno rimossi entro un ragionevole periodo di tempo, salvo obblighi legali di conservazione.
+## 5. Dove sono conservati i dati
 
-Contatti
+I dati sono conservati su server situati nei **Paesi Bassi** (infrastruttura applicativa) e su un database situato in **Germania** (Francoforte) — entrambi all'interno dell'Unione Europea.
 
-Per qualsiasi domanda su questa informativa o sui tuoi dati, puoi contattarci all'indirizzo email indicato nella pagina dell'app.
+## 6. Per quanto tempo conserviamo i dati
 
-Modifiche a questa informativa
+Conserviamo i tuoi dati finché il tuo account resta attivo. Se elimini il tuo account (Impostazioni → Impostazioni account → Elimina account), i tuoi dati personali, allenamenti, post, commenti, messaggi, foto e ogni altro contenuto collegato al tuo profilo vengono cancellati in modo permanente e immediato dai nostri sistemi. Questa azione è irreversibile.
 
-Potremmo aggiornare periodicamente questa informativa. Ti informeremo di eventuali modifiche sostanziali tramite l'app.
+## 7. I tuoi diritti
+
+In quanto interessato, hai diritto di:
+- **Accedere** ai tuoi dati personali
+- **Correggere** dati inesatti o incompleti (direttamente dal tuo profilo, o scrivendoci)
+- **Cancellare** i tuoi dati (autonomamente, eliminando l'account, oppure scrivendoci)
+- **Richiedere una copia** dei tuoi dati in un formato leggibile (portabilità)
+- **Opporti** o **limitare** il trattamento in determinati casi
+
+Per esercitare questi diritti, scrivi a **support@wagmifit.it**. Hai inoltre diritto di presentare reclamo alla tua autorità nazionale di protezione dati (in Italia: il **Garante per la protezione dei dati personali**, www.garanteprivacy.it) se ritieni che il trattamento violi la normativa applicabile.
+
+## 8. Età minima
+
+WAGMI non è destinata a persone di età inferiore a 18 anni: l'app include una funzione di incontri (Match), condivisione della posizione e la possibilità di chattare con altri utenti sconosciuti — elementi che richiedono che l'utente sia maggiorenne. In fase di registrazione ti viene chiesto di confermare di avere almeno 18 anni. Se sei un genitore o tutore e ritieni che un minore abbia creato un account fornendo una falsa conferma, scrivi a support@wagmifit.it per richiederne la rimozione.
+
+## 9. Modifiche a questa informativa
+
+Potremmo aggiornare questa informativa nel tempo. In caso di modifiche rilevanti, te lo comunicheremo tramite l'app prima che entrino in vigore.
+
+## 10. Contatti
+
+Per qualunque domanda su questa informativa o sui tuoi dati: **support@wagmifit.it**
