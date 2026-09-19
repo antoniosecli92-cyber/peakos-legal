@@ -1,6 +1,6 @@
 # Privacy Policy — WAGMI
 
-**Last updated**: September 16, 2026
+**Last updated**: September 19, 2026
 
 *Leggi in [italiano](./privacy-policy).*
 
@@ -43,6 +43,7 @@ We do not sell or share your data for third parties' commercial purposes. We use
 
 - **Google** and **Apple** — only if you choose to sign in with those services, to verify your identity
 - **Strava** — only if you choose to voluntarily connect your account, to import your workouts
+- **Health Connect (Google)** — only if you enable workout export on Android: we write to Health Connect, on your device, only the start/end time and type of workout, never sets, reps or weights; we never read any data from Health Connect. You can revoke this permission at any time from Health Connect settings
 - **Anthropic** (provider of the Claude language model) — receives the messages you send to the AI Coach (and, for form-check analysis, the videos you submit to that feature) solely to generate the response; it does not use them to train its own models with identifiable data as part of our use of the service
 - **Expo** — technical infrastructure used to deliver push notifications and app updates
 - Our hosting providers (server and database), with infrastructure located in the European Union
