@@ -1,8 +1,8 @@
 # Termini di Servizio — WAGMI
 
-**Ultimo aggiornamento**: 16 settembre 2026
+**Ultimo aggiornamento**: 19 settembre 2026
 
-*Read this in [English](./terms-of-service-en).*
+*Read this in [English](./terms-en).*
 
 Benvenuto su WAGMI. Utilizzando l'app accetti questi Termini di Servizio. Se non li accetti, non puoi utilizzare WAGMI.
 
@@ -36,7 +36,7 @@ Ci riserviamo il diritto di rimuovere qualunque contenuto e di sospendere o disa
 
 ## 5. Servizi di terze parti
 
-WAGMI si appoggia ad alcuni servizi di terze parti per specifiche funzionalità (accesso con Google/Apple, importazione da Strava, l'infrastruttura che genera le risposte dell'AI Coach). Il loro utilizzo è descritto nella nostra [Informativa sulla Privacy](./privacy-policy).
+WAGMI si appoggia ad alcuni servizi di terze parti per specifiche funzionalità (accesso con Google/Apple, importazione da Strava, esportazione facoltativa degli allenamenti su Health Connect, l'infrastruttura che genera le risposte dell'AI Coach). Il loro utilizzo è descritto nella nostra [Informativa sulla Privacy](./privacy-policy).
 
 ## 6. Piani e funzionalità a pagamento
 
