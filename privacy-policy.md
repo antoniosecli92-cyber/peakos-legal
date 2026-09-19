@@ -1,6 +1,6 @@
 # Informativa sulla Privacy — WAGMI
 
-**Ultimo aggiornamento**: 16 settembre 2026
+**Ultimo aggiornamento**: 19 settembre 2026
 
 *Read this in [English](./privacy-policy-en).*
 
@@ -43,6 +43,7 @@ Non vendiamo né condividiamo i tuoi dati per finalità commerciali di terzi. Us
 
 - **Google** e **Apple** — solo se scegli di accedere tramite questi servizi, per verificare la tua identità
 - **Strava** — solo se scegli volontariamente di collegare il tuo account, per importare i tuoi allenamenti
+- **Health Connect (Google)** — solo se attivi l'esportazione degli allenamenti su Android: scriviamo in Health Connect, sul tuo dispositivo, solo orario di inizio/fine e tipo di allenamento, mai serie, ripetizioni o pesi; non leggiamo alcun dato da Health Connect. Puoi revocare il permesso in qualsiasi momento dalle impostazioni di Health Connect
 - **Anthropic** (fornitore del modello linguistico Claude) — riceve i messaggi che invii all'AI Coach (e, per l'analisi form-check, i video che invii a quella funzione) esclusivamente per generare la risposta; non li utilizza per addestrare i propri modelli con dati identificabili nell'ambito del nostro utilizzo del servizio
 - **Expo** — infrastruttura tecnica usata per inviare notifiche push e aggiornamenti dell'app
 - I nostri fornitori di hosting (server e database), con infrastruttura situata nell'Unione Europea
