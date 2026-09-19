@@ -2,7 +2,7 @@
 
 **Ultimo aggiornamento**: 19 settembre 2026
 
-*Read this in [English](./terms-en).*
+*Read this in [English](./terms-of-service-en).*
 
 Benvenuto su WAGMI. Utilizzando l'app accetti questi Termini di Servizio. Se non li accetti, non puoi utilizzare WAGMI.
 
