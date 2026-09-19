@@ -18,11 +18,11 @@ For any request regarding your personal data, you can write to: **support@wagmif
 - Photos and videos you attach to your workouts or publish in the community
 - Body measurements and check-ins you choose to log (optional)
 - Messages you write in chat with other users or with the AI Coach
-- Voice, if you choose to use the AI Coach by voice (transcribed to text via your device's own speech recognition)
+- Voice, if you choose to use the AI Coach by voice — transcribed to text via your device's own speech recognition when your device supports it; when it doesn't, transcription happens through Apple's or Google's cloud service instead (we only ever receive the already-transcribed text, never the audio)
 - Reports you submit about content or users
 
 **Data collected automatically:**
-- Geographic location, only if you grant permission, used for the fitness map and to find nearby gyms/workout partners
+- Geographic location: if you grant permission, a single GPS reading from your device is used only to suggest your nearest city (never stored as a precise position); the location actually saved on your profile is always city-level, used for the fitness map and to find nearby gyms/workout partners
 - IP address, used temporarily for account security (e.g. limiting suspicious login attempts)
 - Device identifier and token used to deliver push notifications
 - Minimal technical data about how the app is running (e.g. installed version)
@@ -43,9 +43,11 @@ We do not sell or share your data for third parties' commercial purposes. We use
 
 - **Google** and **Apple** — only if you choose to sign in with those services, to verify your identity
 - **Strava** — only if you choose to voluntarily connect your account, to import your workouts
-- **Health Connect (Google)** — only if you enable workout export on Android: we write to Health Connect, on your device, only the start/end time and type of workout, never sets, reps or weights; we never read any data from Health Connect. You can revoke this permission at any time from Health Connect settings
-- **Anthropic** (provider of the Claude language model) — receives the messages you send to the AI Coach (and, for form-check analysis, the videos you submit to that feature) solely to generate the response; it does not use them to train its own models with identifiable data as part of our use of the service
-- **Expo** — technical infrastructure used to deliver push notifications and app updates
+- **Health Connect (Google)** — only if you enable workout export on Android: we write to Health Connect, on your device, only the start/end time and type of workout; we never write sets, reps, weight, or RPE, and we never read any data from Health Connect. You can revoke this permission at any time from Health Connect settings
+- **Google** (Places/Geocoding API) or, as a fallback, **OpenStreetMap/Nominatim** — when you search for a city or gym, to resolve the text you type (or, if you allow it, a GPS reading) into a place name and its coordinates
+- **Apple** or **Google** — for voice transcription when on-device recognition isn't available (see above): they receive the audio of your request, never any other WAGMI data
+- **Anthropic** (provider of the Claude language model) — receives the messages you send to the AI Coach, the frames you submit for form-check analysis, and the photos you upload (profile photo, workout and post photos) for automatic content-moderation review before publishing; it does not use them to train its own models with identifiable data as part of our use of the service
+- **Expo** — technical infrastructure used to deliver push notifications and app updates; on Android, delivery also passes through **Google (Firebase Cloud Messaging)** as transport infrastructure, on iOS through **Apple's** own push servers
 - Our hosting providers (server and database), with infrastructure located in the European Union
 
 Each of these receives only the data strictly necessary to provide its specific service.

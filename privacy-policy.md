@@ -18,11 +18,11 @@ Per qualunque richiesta relativa ai tuoi dati personali, puoi scrivere a: **supp
 - Foto e video che alleghi ai tuoi allenamenti o pubblichi nella community
 - Misurazioni corporee e check-in che scegli di registrare (facoltativi)
 - Messaggi che scrivi in chat con altri utenti o con l'AI Coach
-- Voce, se scegli di usare l'AI Coach tramite comando vocale (trascritta in testo dal riconoscimento vocale del tuo dispositivo)
+- Voce, se scegli di usare l'AI Coach tramite comando vocale — trascritta in testo dal riconoscimento vocale del tuo dispositivo quando il dispositivo lo supporta; se non è supportato, la trascrizione avviene tramite il servizio cloud di Apple o Google (noi riceviamo sempre e solo il testo già trascritto, mai l'audio)
 - Segnalazioni che invii su contenuti o utenti
 
 **Dati raccolti automaticamente:**
-- Posizione geografica, solo se concedi il permesso, usata per la mappa fitness e per trovare palestre/compagni di allenamento vicini
+- Posizione geografica: se concedi il permesso, una singola lettura GPS del tuo dispositivo viene usata solo per suggerirti la città più vicina (non viene mai conservata come posizione precisa); la posizione effettivamente salvata sul tuo profilo è sempre a livello di città, usata per la mappa fitness e per trovare palestre/compagni di allenamento vicini
 - Indirizzo IP, usato temporaneamente per la sicurezza dell'account (es. limitare tentativi di accesso sospetti)
 - Identificativo e token del dispositivo usati per inviare le notifiche push
 - Dati tecnici minimi sul funzionamento dell'app (es. versione installata)
@@ -43,9 +43,11 @@ Non vendiamo né condividiamo i tuoi dati per finalità commerciali di terzi. Us
 
 - **Google** e **Apple** — solo se scegli di accedere tramite questi servizi, per verificare la tua identità
 - **Strava** — solo se scegli volontariamente di collegare il tuo account, per importare i tuoi allenamenti
-- **Health Connect (Google)** — solo se attivi l'esportazione degli allenamenti su Android: scriviamo in Health Connect, sul tuo dispositivo, solo orario di inizio/fine e tipo di allenamento, mai serie, ripetizioni o pesi; non leggiamo alcun dato da Health Connect. Puoi revocare il permesso in qualsiasi momento dalle impostazioni di Health Connect
-- **Anthropic** (fornitore del modello linguistico Claude) — riceve i messaggi che invii all'AI Coach (e, per l'analisi form-check, i video che invii a quella funzione) esclusivamente per generare la risposta; non li utilizza per addestrare i propri modelli con dati identificabili nell'ambito del nostro utilizzo del servizio
-- **Expo** — infrastruttura tecnica usata per inviare notifiche push e aggiornamenti dell'app
+- **Health Connect (Google)** — solo se attivi l'esportazione degli allenamenti su Android: scriviamo in Health Connect, sul tuo dispositivo, solo orario di inizio/fine e tipo di allenamento; non scriviamo mai serie, ripetizioni, peso o RPE, e non leggiamo alcun dato da Health Connect. Puoi revocare il permesso in qualsiasi momento dalle impostazioni di Health Connect
+- **Google** (Places/Geocoding API) o, in alternativa, **OpenStreetMap/Nominatim** — quando cerchi una città o una palestra, per risolvere il testo che digiti (o, se lo consenti, una lettura GPS) in un nome di luogo e le sue coordinate
+- **Apple** o **Google** — per la trascrizione vocale quando il riconoscimento sul dispositivo non è disponibile (vedi sopra): ricevono l'audio della tua richiesta, mai altri dati di WAGMI
+- **Anthropic** (fornitore del modello linguistico Claude) — riceve i messaggi che invii all'AI Coach, i fotogrammi che invii per l'analisi form-check, e le foto che carichi (foto profilo, foto di allenamenti e post) per un controllo automatico di moderazione dei contenuti prima della pubblicazione; non li utilizza per addestrare i propri modelli con dati identificabili nell'ambito del nostro utilizzo del servizio
+- **Expo** — infrastruttura tecnica usata per inviare notifiche push e aggiornamenti dell'app; su Android la consegna passa anche attraverso **Google (Firebase Cloud Messaging)** come infrastruttura di trasporto, su iOS attraverso i server push di **Apple**
 - I nostri fornitori di hosting (server e database), con infrastruttura situata nell'Unione Europea
 
 Ciascuno di questi riceve solo i dati strettamente necessari a fornire il proprio servizio specifico.
