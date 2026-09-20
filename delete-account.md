@@ -1,4 +1,4 @@
-# Come eliminare il tuo account WAGMI
+# Come eliminare il tuo account WAGMI Fit
 
 **Ultimo aggiornamento**: 19 settembre 2026
 
@@ -6,14 +6,14 @@
 
 ## Dall'app (consigliato)
 
-1. Apri WAGMI e accedi al tuo account.
+1. Apri WAGMI Fit e accedi al tuo account.
 2. Vai su **Impostazioni → Account**.
 3. Tocca **Elimina account**.
 4. Conferma quando richiesto — l'eliminazione è immediata e irreversibile.
 
 ## Se non riesci ad accedere all'app
 
-Scrivi a **support@wagmifit.it** indicando che vuoi eliminare il tuo account. **La richiesta deve arrivare dall'indirizzo email associato al tuo account WAGMI** — è il modo in cui verifichiamo che sia davvero tu a chiederlo, prima di cancellare qualunque dato. Elaboreremo la richiesta entro **30 giorni (di solito molto prima)**.
+Scrivi a **support@wagmifit.it** indicando che vuoi eliminare il tuo account. **La richiesta deve arrivare dall'indirizzo email associato al tuo account WAGMI Fit** — è il modo in cui verifichiamo che sia davvero tu a chiederlo, prima di cancellare qualunque dato. Elaboreremo la richiesta entro **30 giorni (di solito molto prima)**.
 
 ## Cosa viene eliminato
 

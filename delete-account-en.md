@@ -1,4 +1,4 @@
-# How to delete your WAGMI account
+# How to delete your WAGMI Fit account
 
 **Last updated**: September 19, 2026
 
@@ -6,14 +6,14 @@
 
 ## From the app (recommended)
 
-1. Open WAGMI and sign in to your account.
+1. Open WAGMI Fit and sign in to your account.
 2. Go to **Settings → Account**.
 3. Tap **Delete account**.
 4. Confirm when prompted — deletion is immediate and irreversible.
 
 ## If you can't access the app
 
-Write to **support@wagmifit.it** stating that you want to delete your account. **The request must come from the email address associated with your WAGMI account** — this is how we verify it's really you asking, before deleting any data. We'll process the request within **30 days (usually much sooner)**.
+Write to **support@wagmifit.it** stating that you want to delete your account. **The request must come from the email address associated with your WAGMI Fit account** — this is how we verify it's really you asking, before deleting any data. We'll process the request within **30 days (usually much sooner)**.
 
 ## What gets deleted
 

@@ -1,4 +1,4 @@
-# Informativa sulla Privacy — WAGMI
+# Informativa sulla Privacy — WAGMI Fit
 
 **Ultimo aggiornamento**: 19 settembre 2026
 
@@ -6,7 +6,7 @@
 
 ## 1. Titolare del trattamento
 
-Il Titolare del trattamento dei dati raccolti tramite l'app WAGMI è **Paolo Antonio Seclì**.
+Il Titolare del trattamento dei dati raccolti tramite l'app WAGMI Fit è **Paolo Antonio Seclì**.
 Per qualunque richiesta relativa ai tuoi dati personali, puoi scrivere a: **support@wagmifit.it**
 
 ## 2. Quali dati raccogliamo
@@ -45,7 +45,7 @@ Non vendiamo né condividiamo i tuoi dati per finalità commerciali di terzi. Us
 - **Strava** — solo se scegli volontariamente di collegare il tuo account, per importare i tuoi allenamenti
 - **Health Connect (Google)** — solo se attivi l'esportazione degli allenamenti su Android: scriviamo in Health Connect, sul tuo dispositivo, solo orario di inizio/fine e tipo di allenamento; non scriviamo mai serie, ripetizioni, peso o RPE, e non leggiamo alcun dato da Health Connect. Puoi revocare il permesso in qualsiasi momento dalle impostazioni di Health Connect
 - **Google** (Places/Geocoding API) o, in alternativa, **OpenStreetMap/Nominatim** — quando cerchi una città o una palestra, per risolvere il testo che digiti (o, se lo consenti, una lettura GPS) in un nome di luogo e le sue coordinate
-- **Apple** o **Google** — per la trascrizione vocale quando il riconoscimento sul dispositivo non è disponibile (vedi sopra): ricevono l'audio della tua richiesta, mai altri dati di WAGMI
+- **Apple** o **Google** — per la trascrizione vocale quando il riconoscimento sul dispositivo non è disponibile (vedi sopra): ricevono l'audio della tua richiesta, mai altri dati di WAGMI Fit
 - **Anthropic** (fornitore del modello linguistico Claude) — riceve i messaggi che invii all'AI Coach, i fotogrammi che invii per l'analisi form-check, e le foto che carichi (foto profilo, foto di allenamenti e post) per un controllo automatico di moderazione dei contenuti prima della pubblicazione; non li utilizza per addestrare i propri modelli con dati identificabili nell'ambito del nostro utilizzo del servizio
 - **Expo** — infrastruttura tecnica usata per inviare notifiche push e aggiornamenti dell'app; su Android la consegna passa anche attraverso **Google (Firebase Cloud Messaging)** come infrastruttura di trasporto, su iOS attraverso i server push di **Apple**
 - I nostri fornitori di hosting (server e database), con infrastruttura situata nell'Unione Europea
@@ -73,7 +73,7 @@ Per esercitare questi diritti, scrivi a **support@wagmifit.it**. Hai inoltre dir
 
 ## 8. Età minima
 
-WAGMI non è destinata a persone di età inferiore a 18 anni: l'app include una funzione di incontri (Match), condivisione della posizione e la possibilità di chattare con altri utenti sconosciuti — elementi che richiedono che l'utente sia maggiorenne. In fase di registrazione ti viene chiesto di confermare di avere almeno 18 anni. Se sei un genitore o tutore e ritieni che un minore abbia creato un account fornendo una falsa conferma, scrivi a support@wagmifit.it per richiederne la rimozione.
+WAGMI Fit non è destinata a persone di età inferiore a 18 anni: l'app include una funzione di incontri (Match), condivisione della posizione e la possibilità di chattare con altri utenti sconosciuti — elementi che richiedono che l'utente sia maggiorenne. In fase di registrazione ti viene chiesto di confermare di avere almeno 18 anni. Se sei un genitore o tutore e ritieni che un minore abbia creato un account fornendo una falsa conferma, scrivi a support@wagmifit.it per richiederne la rimozione.
 
 ## 9. Modifiche a questa informativa
 
